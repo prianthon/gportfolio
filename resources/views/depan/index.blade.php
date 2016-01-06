@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <title>GPortfolio</title>
+  <title>Gedhe Portfolio</title>
 
   <!--bootstrap-->
   <link href="{{ asset('/public/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet"/>
@@ -53,7 +53,7 @@
     <!--portfolio-->
     <section class="portfolio">
       <div class="container">
-        <h2>My Work</h2>
+        <h2>Kreatifitas</h2>
         <div class="text-big text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit</div>
         <!--portfolio loop-->
         <div class="portfolio-loop">
@@ -156,7 +156,7 @@
     <!--contact-->
     <section class="contact">
       <div class="container">
-        <h2>GET <strong>CONNECTED</strong></h2>
+        <h2>TETAP <strong>TERHUBUNG</strong></h2>
 
         <div class="row">
           <div class="col-md-6">
@@ -164,27 +164,27 @@
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 
               <div class="contact-item">
-                <span class="fa fa-envelope fa-fw contact-icon"></span> contact@codepolitan.com
+                <span class="fa fa-envelope fa-fw contact-icon"></span> prianthon@gedhe.or.id
               </div>
 
               <div class="contact-item">
-                <span class="fa fa-phone fa-fw contact-icon"></span> +62 8999 129 220
+                <span class="fa fa-phone fa-fw contact-icon"></span> +62 811 268 8080
               </div>
 
               <div class="contact-item">
-                <span class="fa fa-linkedin fa-fw contact-icon"</span>CodePolitan
+                <span class="fa fa-linkedin fa-fw contact-icon"></span> prianthon
               </div>
 
               <div class="contact-item">
-                <span class="fa fa-facebook fa-fw contact-icon"></span> CodePolitan
+                <span class="fa fa-facebook fa-fw contact-icon"></span> fb.com/prianthon
               </div>
 
               <div class="contact-item">
-                <span class="fa fa-twitter fa-fw contact-icon"></span> @CodePolitan
+                <span class="fa fa-twitter fa-fw contact-icon"></span> @prianthon
               </div>
 
               <div class="contact-item">
-                <span class="fa fa-google-plus fa-fw contact-icon"></span> +CodePolitan
+                <span class="fa fa-google-plus fa-fw contact-icon"></span> +prianthon
               </div>
             </div>
           </div>
@@ -192,19 +192,19 @@
           <div class="col-md-6">
             <form class="contact-form">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Name">
+                <input type="text" class="form-control" placeholder="Nama">
               </div>
               <div class="form-group">
-                <input type="email" class="form-control" placeholder="Email address">
+                <input type="email" class="form-control" placeholder="Alamat Email">
               </div>
               <div class="form-group">
                 <input type="password" class="form-control" placeholder="Subject">
               </div>
               <div class="form-group">
-                <textarea class="form-control" rows="3" placeholder="Message"></textarea>
+                <textarea class="form-control" rows="3" placeholder="Pesan"></textarea>
               </div>
 
-              <button type="submit" class="btn btn-default btn-lg">SEND</button>
+              <button type="submit" class="btn btn-default btn-lg">Kirim</button>
             </form>
           </div>
         </div>
@@ -214,7 +214,7 @@
     <!--footer-->
     <footer class="footer">
       <div class="container">
-        Copyright &copy; 2016 - All right reserved.
+        Gedhe Foundation
       </div>
     </footer>
   </div>
