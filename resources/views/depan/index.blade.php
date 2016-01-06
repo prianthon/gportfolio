@@ -25,8 +25,8 @@
     <header class="header-cover">
       <div class="container">
         <div class="header-inner">
-          <h1>Hi, my name is <span class="text-color-primary">Nyan</span>.</h1>
-          <h1>I'm a <strong>web programmer</strong> from Jakarta.</h1>
+          <h1>Hai, nama saya <span class="text-color-primary">Pri Anton Subardio</span>.</h1>
+          <h1>Semacam <strong>web programmer</strong> asli Purwokerto.</h1>
         </div>
       </div>
 
